@@ -1,2 +1,2 @@
 # furry-waddle
-I am a beginner and this is my first repository.
+I am a beginner and this is my first repository for tutorial purposes.
